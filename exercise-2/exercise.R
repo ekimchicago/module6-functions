@@ -8,7 +8,7 @@ number <- 3
 CompareLength <- function(length, number)
 
 # Pass two strings of different lengths to your `CompareLength` function
-Com
+CompareLenght <- paste("The difference in lenghth", "is 3")
 
 # Define a function `DescribeDifference` that will return one of the following statements:
 # "Your first string is longer by N characters"
